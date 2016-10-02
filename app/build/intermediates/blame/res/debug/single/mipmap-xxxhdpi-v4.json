@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Stephen\\AndroidStudioProjects\\GPSClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\location_icon.png",
+        "source": "C:\\Users\\Stephen\\AndroidStudioProjects\\GPSClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephen\\AndroidStudioProjects\\GPSClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Stephen\\AndroidStudioProjects\\GPSClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
